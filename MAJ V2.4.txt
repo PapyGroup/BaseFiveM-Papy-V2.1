@@ -1,0 +1,17 @@
+V2.4 Historique Maj
+```css
+- Modification legere du concessionnaire naval suite a l'ajout des autres concess
+- Modification legere du concessionnaire avion suite a l'ajout des autres concess
+- Ajout d'un concessionnaire velo
+- Ajout d'un concessionnaire entreprise
+- Ajout d'un concessionnaire de luxe
+- Ajout d'un concessionnaire voiture au nord
+- Ajout d'un concessionnaire moto en centre ville
+- Ajout d'un concessionnaire moto au nord
+- Ajout d'un concessionnaire utilitaire
+- Ajout d'un concessionnaire voiture en centre ville (en plus de l'actuel)
+- Ajout d'un mecano job plus realiste (suppression du benny's)
+2 entreprises mecano que chaque joueurs peux prendre comme une entreprise avec un systeme de crafting pour les reparations
+- Ajout de mappings lie aux nouveau ajouts
+- Fix du systeme de garage (eden_garage2)
+```
